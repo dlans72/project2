@@ -5,6 +5,5 @@ using namespace std;
 int main()
 {
     cout << "Hello World" <<endl;
-    cout << "Tes Aja"<<endl;
-    cout << "Tambahan";
+    cout << "Tes Baru";
 }
